@@ -1,0 +1,11 @@
+* text eol=lf
+
+*.properties text eol=lf encoding=UTF-8 working-tree-encoding=UTF-8
+**/i18n/**/*.json text eol=lf encoding=UTF-8 working-tree-encoding=UTF-8
+*.ttf binary
+*.jpg binary
+*.pdf binary
+*.png binary
+*.svg binary
+*.tgz binary
+*.woff binary
